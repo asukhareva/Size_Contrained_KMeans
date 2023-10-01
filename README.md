@@ -5,4 +5,4 @@ Solving the problem "Star maps 2.0" with Yandex ML competition 2022. In the stel
 2. PCA
 3. Implementation of Size Contrained KMeans https://github.com/jingw2/size_constrained_clustering
 ## Metrics
-Accuracy
+Accuracy >= 0.95
